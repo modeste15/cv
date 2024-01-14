@@ -113,7 +113,7 @@ export const RESUME_DATA = {
       logo: NSNLogo,
       start: "2019",
       end: "2021",
-      description: "poste de développeur au sein d'une équipe dédiée à la création d'une solution hospitalière complète, développée entièrement depuis le début. Mon rôle consistait à concevoir et à coder des fonctionnalités cruciales, contribuant ainsi à la construction d'un système robuste et adapté aux besoins spécifiques du secteur hospitalier. Mon engagement dans ce projet a renforcé mes compétences en développement et ma compréhension des exigences complexes des solutions médicales,
+      description: "poste de développeur au sein d'une équipe dédiée à la création d'une solution hospitalière complète, développée entièrement depuis le début. Mon rôle consistait à concevoir et à coder des fonctionnalités cruciales, contribuant ainsi à la construction d'un système robuste et adapté aux besoins spécifiques du secteur hospitalier. Mon engagement dans ce projet a renforcé mes compétences en développement et ma compréhension des exigences complexes des solutions médicales",
     },
     {
       company: "Miabe Star",
