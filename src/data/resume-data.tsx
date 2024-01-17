@@ -27,7 +27,7 @@ export const RESUME_DATA = {
   about:
     "Software Engineer, Data Enthusiast.",
   summary:
-    "J'ai une passion pour fournir des solutions à diverses industries grâce à l'utilisation des technologies Node.js , PHP , Python . En tant qu'analyste, je me spécialise dans la mise à profit de mes compétences pour fournir des informations précieuses et soutenir les entreprises, en garantissant une intégration transparente des solutions basées sur les données. Fort d'une expertise approfondie en visualisation de données, je suis compétent dans la création de représentations visuelles percutantes pour transformer des informations complexes en insights exploitables.",
+    "I have a passion for delivering solutions to various industries, including commerce, insurance, and project management, through the use of technological solutions. I apply my skills to the creation of advanced software solutions. My expertise spans from design to implementation, with a particular focus on solving challenges that businesses may encounter in their daily tasks.",
   avatarUrl: "https://gravatar.com/avatar/35d41aa5198303bf475f7c7e42a1dfdf?s=400&d=mp&r=x",
   personalWebsiteUrl: "https://medouse.me",
   contact: {
@@ -53,20 +53,20 @@ export const RESUME_DATA = {
   },
   education: [
     {
-      school: "SUPINFO, ",
-      degree: "Master Ingénierie Data",
+      school: "SUPINFO",
+      degree: "Master's in Data Engineering",
       start: "2023",
       end: "2025",
     },
     {
       school: "Université du Havre Normandie",
-      degree: "Licence Informatique",
+      degree: "Bachelor's degree in Computer Science",
       start: "2021",
       end: "2022",
     },
     {
-      school: "Ecole Polytechnique de Lomé",
-      degree: "Licence Professionnelle en Genie Logiciel",
+      school: "Ecole Polytechnique  Lome",
+      degree: "Professional Bachelor's Program in Software Engineering",
       start: "2017",
       end: "2020",
     }
@@ -75,55 +75,55 @@ export const RESUME_DATA = {
     {
       company: "Malakoff Humanis",
       link: "https://www.malakoffhumanis.com/",
-      badges: ["Alternance"],
-      title: "Chargé de developpement Informatique",
+      badges: ["Apprenticeship"],
+      title: "Consultant Software ",
       logo: ParabolLogo,
       start: "2023",
       end: "2025",
       description:
-        "En qualité de responsable des évolutions sur un logiciel web dédié au suivi d'activité d'un CRM pour le métier de commercial, je m'occupe de l'amélioration continue du système et génère des rapports analytiques grâce à la manipulation de données SQL.",
+        "In my role as a development manager for a web-based software dedicated to activity tracking within a CRM for the sales field, I oversee the continuous improvement of the system and generate analytical reports through SQL data manipulation.",
     },
     {
       company: "Orange France",
       link: "https://www.orange.fr",
       badges: ["Hybrid"],
-      title: "Consultant Laravel",
+      title: "Laravel PHP/Developer",
       logo: ClevertechLogo,
       start: "2022",
       end: "2023",
       description:
-        "En tant que Lead Développeur , j'ai eu la tache de maintenir et faire evoluer un logiciel de gestion de projet. J'ai integré plusieurs API d'automatisation et mener a bien des integrations comme la Signature électronique.",
+      "As a Lead Developer, I was tasked with maintaining and evolving a project management software. I integrated various automation APIs and successfully led integrations, such as Electronic Signature functionality." ,
     },
     {
       company: "Engenys",
       link: "https://engenys.com/",
-      badges: ["Stage"],
-      title: "Developpeur Logiciel",
+      badges: ["Internship"],
+      title: "Software Engineer",
       logo: JojoMobileLogo,
       start: "2022",
       end: "2022",
       description:
-        "Maintenance évolutive d'une application GMAO web Python utilisant le micro-framework Flask, ainsi que les technologies Jinja et Tailwind CSS, avec une intégration Docker.",
+      "Evolutionary maintenance of a Python web-based CMMS (Computerized Maintenance Management System) application using the Flask micro-framework, along with Jinja and Tailwind CSS technologies, and Docker integration.",
     },
     {
       company: "Clinicaa",
       link: "https://clinicaa-erp.com/",
       badges: [],
-      title: "Developpeur Laravel/VueJs",
+      title: "Junior Software Engineer",
       logo: NSNLogo,
       start: "2019",
       end: "2021",
-      description: "poste de développeur au sein d'une équipe dédiée à la création d'une solution hospitalière complète, développée entièrement depuis le début. Mon rôle consistait à concevoir et à coder des fonctionnalités cruciales, contribuant ainsi à la construction d'un système robuste et adapté aux besoins spécifiques du secteur hospitalier. Mon engagement dans ce projet a renforcé mes compétences en développement et ma compréhension des exigences complexes des solutions médicales",
+      description: "Developer position within a team dedicated to creating a comprehensive hospital solution, developed entirely from scratch. My role involved designing and coding crucial features, contributing to the construction of a robust system tailored to the specific needs of the healthcare sector. My commitment to this project enhanced my development skills and deepened my understanding of the complex requirements of medical solutions.",
     },
     {
       company: "Miabe Star",
       link: "",
       badges: [],
-      title: "Developpeur Laravel",
+      title: "Junior Laravel Developper",
       logo: NSNLogo,
       start: "2019",
       end: "2019",
-      description: "",
+      description: "Design and development of backend APIs for a mobile application.",
     },
   ],
   skills: [
@@ -149,7 +149,7 @@ export const RESUME_DATA = {
       logo: ConsultlyLogo,
       link: {
         label: "",
-        href: "https://consultly.com/"
+        href: ""
       },
     }
     
