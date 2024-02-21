@@ -28,7 +28,7 @@ export const RESUME_DATA = {
     "Software Engineer, Data Enthusiast.",
   summary:
     "I have a passion for delivering solutions to various industries, including commerce, insurance, and project management, through the use of technological solutions. I apply my skills to the creation of advanced software solutions. My expertise spans from design to implementation, with a particular focus on solving challenges that businesses may encounter in their daily tasks.",
-  avatarUrl: "https://gravatar.com/avatar/35d41aa5198303bf475f7c7e42a1dfdf?s=400&d=mp&r=x",
+  avatarUrl: "https://avatars.githubusercontent.com/u/49912886?s=400&u=b3e9e8682bcceb42ccc332b97cca075fb8036947&v=4",
   personalWebsiteUrl: "https://medouse.me",
   contact: {
     email: "medouse15@gmail.com",
