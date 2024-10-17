@@ -88,7 +88,7 @@ export default function Page() {
           </div>
 
           <Avatar className="size-28">
-            <AvatarImage alt={RESUME_DATA.name} src={"../images/img.jpeg"} />
+            <img alt={RESUME_DATA.name} src={"../images/img.jpeg"} />
             <AvatarFallback>{RESUME_DATA.initials}</AvatarFallback>
           </Avatar>
         </div>
