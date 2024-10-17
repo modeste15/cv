@@ -85,6 +85,7 @@ export const RESUME_DATA = {
       company: "Orange France",
       link: "https://www.orange.fr",
       title: "Developpeur Laravel ",
+      badges: [],
       logo: ClevertechLogo,
       start: "2022",
       end: "2023",
