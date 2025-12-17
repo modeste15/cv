@@ -16,6 +16,9 @@ import {
   ParabolLogo,
   TastyCloudLogo,
   YearProgressLogo,
+  Orange,
+  Mh,
+
 } from "@/images/logos";
 
 
@@ -74,7 +77,7 @@ export const RESUME_DATA = {
       company: "Malakoff Humanis",
       link: "https://www.malakoffhumanis.com/",
       badges: ["Alternance"],
-      title: "PMO- Chargé de developpement Informatique ",
+      title: "PMO - Chargé de developpement Informatique ",
       logo: ParabolLogo,
       start: "Septembre 2023",
       end: "Novembre 2025",

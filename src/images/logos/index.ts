@@ -15,6 +15,9 @@ import ParabolLogo from "./parabol.svg";
 import TastyCloudLogo from "./tastycloud.png";
 import YearProgressLogo from "./yearprogress.svg";
 import Minimal from "./minimal.svg";
+import Orange from "./orange.png";
+import Mh from "./mh.png";
+
 
 export {
   ConsultlyLogo,
@@ -34,4 +37,6 @@ export {
   TastyCloudLogo,
   YearProgressLogo,
   Minimal,
+  Orange,
+  Mh
 };
