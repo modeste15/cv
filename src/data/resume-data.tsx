@@ -25,14 +25,14 @@ import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 export const RESUME_DATA = {
   name: "Modeste KOUASSI",
   initials: "",
-  location: "Angers, France, & 🌏",
+  location: "France, & 🌏 | Disponibilité Immédiate",
   locationLink: "https://maps.app.goo.gl/gjmCCWuzWxo4TF8J6",
   about:
-    "Developpement Informatique et Manipulation de Données ",
+    "Ingénierie Logicielle & Données | Gestion de Projets IT",
   summary:
-    "Passionné par le développement logiciel, je suis actuellement Chargé de développement en alternance chez Malakoff Humanis, où je reçois les besoins des équipes commerciales et les implémente dans un logiciel dédié au suivi d’activité. En parallèle, je mène de nombreux projets en ingénierie data et analyse de données . Fort d’une expérience variée, j’ai occupé un poste  de développeur chez Orange France, où j’ai mené des projets d’intégration d’API et automatisé des processus clés, tels que la signature électronique. Je maîtrise les bonnes pratiques de développement et suis habitué à travailler en méthodologie agile. Mon expertise couvre une variété de technologies, allant de la gestion des bases de données SQL à l’intégration de solutions web complexes ainsi que la gestions de projet Informatique.",
+    "Passionné par le développement logiciel et la valorisation des données, j’ai exercé en tant que Chargé de développement(PMO) chez Malakoff Humanis, où j’analysais les besoins des équipes commerciales et exploitais des données multi-sources issues de CRM et de logiciels RH, mises en œuvre au travers de chaînes ETL, afin de les traduire en solutions concrètes au sein d’un logiciel de suivi d’activité et reporting BI. En parallèle lors de ma formation, j’ai mené plusieurs projets en ingénierie data et analyse de données. Aussi Fort d’une expérience chez Orange France, j’ai conduit des projets d’intégration d’API et automatisé des processus clés, notamment autour de l'automatisation RPA et de la signature électronique. Habitué aux bonnes pratiques de développement et aux méthodologies agiles, je dispose d’une expertise couvrant la gestion de bases de données SQL, les ETLs, l’intégration de solutions web complexes et la gestion de projets informatiques, de l’expression du besoin jusqu’à la livraison.",
   avatarUrl: "https://avatars.githubusercontent.com/u/49912886?s=400&u=b3e9e8682bcceb42ccc332b97cca075fb8036947&v=4",
-  personalWebsiteUrl: "https://medouse.me",
+  personalWebsiteUrl: "https://modeste.app",
   contact: {
     email: "medouse15@gmail.com",
     tel: "+330752422936",
@@ -63,7 +63,7 @@ export const RESUME_DATA = {
       end: "2022",
     },
     {
-      school: "Ecole Polytechnique  Lome",
+      school: "Ecole Polytechnique Lome",
       degree: "Parcours Licence Professionnelle Genie Logiciel ",
       start: "2017",
       end: "2020",
@@ -74,23 +74,23 @@ export const RESUME_DATA = {
       company: "Malakoff Humanis",
       link: "https://www.malakoffhumanis.com/",
       badges: ["Alternance"],
-      title: "Chargé de developpement Informatique ",
+      title: "PMO- Chargé de developpement Informatique ",
       logo: ParabolLogo,
-      start: "2023",
-      end: "2025",
+      start: "Septembre 2023",
+      end: "Novembre 2025",
       description:
-        "Dans mon rôle de chargé de développement pour un logiciel web dédié au suivi d’activité au sein d’un CRM orienté vers le domaine commercial, je recueille les besoins métiers et mets en œuvre des solutions pour améliorer continuellement le système. J’élabore également des rapports analytiques en effectuant des manipulations avancées des données via SQL, afin de soutenir la prise de décision et optimiser la performance.",
+        "",
     },
     {
       company: "Orange France",
       link: "https://www.orange.fr",
-      title: "Developpeur Laravel ",
-      badges: [],
+      title: "Analyste développeur ",
+      badges: ['Prestation via ESN'],
       logo: ClevertechLogo,
       start: "2022",
       end: "2023",
       description:
-      "En tant qu’Analyste Développeur, j’étais chargé de maintenir et de faire évoluer un logiciel de gestion de projet. J’ai intégré diverses API d’automatisation et mené avec succès des intégrations, telles que la fonctionnalité de signature électronique ou une intégration des API de l’INSEE. J’ai également travaillé sur du DevOps et utilisé des outils d’analyse tels que SonarQube." ,
+      "" ,
     },
     {
       company: "Engenys",
@@ -107,9 +107,9 @@ export const RESUME_DATA = {
       company: "Clinicaa",
       link: "https://clinicaa-erp.com/",
       badges: [],
-      title: "Junior Software Engineer",
+      title: "Analyste Développeur",
       logo: NSNLogo,
-      start: "2019",
+      start: "2020",
       end: "2021",
       description: "Poste de développeur au sein d’une équipe dédiée à la création d’une solution hospitalière complète, développée entièrement à partir de zéro. Mon rôle consistait à concevoir et coder des fonctionnalités cruciales, contribuant à la construction d’un système robuste, adapté aux besoins spécifiques du secteur de la santé. Mon engagement dans ce projet a renforcé mes compétences en développement et approfondi ma compréhension des exigences complexes des solutions médicales.",
     },
@@ -119,13 +119,39 @@ export const RESUME_DATA = {
     "JavaScript",
     "PHP",
     "Laravel",
-    "Node.js",
     "API",
     "PowerBi",
     "SQL",
+    "PostgreSQL",
+    "ETL",
+    "Python",
+    "FastAPI",
+    "Data Analysis",
+    "Tableau",
+    "Git",
+    "Docker",
+    "Agile Methodologies",
+    "ChartJS",
+    "ITIL",
+    "Agile / Scrum"
 
   ],
   projects: [
+    {
+      title: "Refondre des plateformes de pilotage (Cockpit commercial)",
+      techStack: [
+        "Reporting",
+        "Excel",
+        "Visualisation de données",
+        "Agile / Cycle V"
+      ],
+      description: "Mémoire de fin d'étude",
+      logo: ConsultlyLogo,
+      link: {
+        label: "Consulter le mémoire",
+        href: "https://drive.google.com/file/d/1Se1g57QpnKwVv6_tqOQ8OokDUAj4lJGB/view?usp=sharing"
+      },
+    }, 
     {
       title: "API pour Gestion de Bibliothèque",
       techStack: [
