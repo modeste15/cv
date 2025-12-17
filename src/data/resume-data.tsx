@@ -109,11 +109,11 @@ export const RESUME_DATA = {
     {
       company: "Clinicaa",
       link: "https://clinicaa-erp.com/",
-      badges: [],
+      badges: ['CDD'],
       title: "Analyste Développeur",
       logo: NSNLogo,
-      start: "2020",
-      end: "2021",
+      start: "Juin 2020",
+      end: "Juillet 2021",
       description: "Poste de développeur au sein d’une équipe dédiée à la création d’une solution hospitalière complète, développée entièrement à partir de zéro. Mon rôle consistait à concevoir et coder des fonctionnalités cruciales, contribuant à la construction d’un système robuste, adapté aux besoins spécifiques du secteur de la santé. Mon engagement dans ce projet a renforcé mes compétences en développement et approfondi ma compréhension des exigences complexes des solutions médicales.",
     },
 
