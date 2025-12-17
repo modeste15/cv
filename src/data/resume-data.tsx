@@ -35,7 +35,7 @@ export const RESUME_DATA = {
   summary:
     "Passionné par le développement logiciel et la valorisation des données, j’ai exercé en tant que Chargé de développement(PMO) chez Malakoff Humanis, où j’analysais les besoins des équipes commerciales et exploitais des données multi-sources issues de CRM et de logiciels RH, mises en œuvre au travers de chaînes ETL, afin de les traduire en solutions concrètes au sein d’un logiciel de suivi d’activité et reporting BI. En parallèle lors de ma formation, j’ai mené plusieurs projets en ingénierie data et analyse de données. Aussi Fort d’une expérience chez Orange France, j’ai conduit des projets d’intégration d’API et automatisé des processus clés, notamment autour de l'automatisation RPA et de la signature électronique. Habitué aux bonnes pratiques de développement et aux méthodologies agiles, je dispose d’une expertise couvrant la gestion de bases de données SQL, les ETLs, l’intégration de solutions web complexes et la gestion de projets informatiques, de l’expression du besoin jusqu’à la livraison.",
   avatarUrl: "https://avatars.githubusercontent.com/u/49912886?s=400&u=b3e9e8682bcceb42ccc332b97cca075fb8036947&v=4",
-  personalWebsiteUrl: "https://modeste.app",
+  personalWebsiteUrl: "",
   contact: {
     email: "medouse15@gmail.com",
     tel: "+330752422936",
