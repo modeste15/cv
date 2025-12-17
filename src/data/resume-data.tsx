@@ -141,6 +141,18 @@ export const RESUME_DATA = {
   ],
   projects: [
     {
+      title: "Formation Master",
+      techStack: [
+
+      ],
+      description: "Module de formation Master",
+      logo: ConsultlyLogo,
+      link: {
+        label: "Consulter les modules",
+        href: "https://drive.google.com/file/d/1Ye2xOtAXhsyW2I1IKj6WQwfUOF_772Xk/view?usp=sharing"
+      },
+    }, 
+    {
       title: "Refondre des plateformes de pilotage (Cockpit commercial)",
       techStack: [
         "Reporting",
