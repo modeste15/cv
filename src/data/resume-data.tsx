@@ -82,7 +82,7 @@ export const RESUME_DATA = {
       start: "Septembre 2023",
       end: "Novembre 2025",
       description:
-        "",
+        "CRM - PowerBi - ETL - PHP - SQL - SqlServer - ADFS - BigData - Reporting - ChartJS - Bitbucket - ITIL",
     },
     {
       company: "Orange France",
@@ -90,10 +90,10 @@ export const RESUME_DATA = {
       title: "Analyste développeur ",
       badges: ['Prestation via ESN'],
       logo: Orange,
-      start: "2022",
-      end: "2023",
+      start: "Juillet 2022",
+      end: "Juillet 2023",
       description:
-      "" ,
+      "Gitlab CI/CD - Symfony - Laravel - SonarQube - API REST - RPA - Automatisation de processus - Signature électronique - Intégration/Externalisation d'API - Postman - Swagger - SQL - SCRUM ",
     },
     {
       company: "Engenys",
@@ -101,8 +101,8 @@ export const RESUME_DATA = {
       badges: ["Stage"],
       title: "Software Engineer",
       logo: JojoMobileLogo,
-      start: "2022",
-      end: "2022",
+      start: "Mai 2022",
+      end: "Juin 2022",
       description:
       "Maintenance évolutive d’une application GMAO (Gestion de Maintenance Assistée par Ordinateur) web basée sur Python, utilisant le micro-framework Flask, ainsi que les technologies Jinja et Tailwind CSS, et l’intégration de Docker.",
     },
@@ -146,7 +146,8 @@ export const RESUME_DATA = {
         "Reporting",
         "Excel",
         "Visualisation de données",
-        "Agile / Cycle V"
+        "Agile / Cycle V",
+        "DSI"
       ],
       description: "Mémoire de fin d'étude",
       logo: ConsultlyLogo,
