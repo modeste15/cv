@@ -78,7 +78,7 @@ export const RESUME_DATA = {
       link: "https://www.malakoffhumanis.com/",
       badges: ["Alternance"],
       title: "PMO - Chargé de developpement Informatique ",
-      logo: ParabolLogo,
+      logo: Mh,
       start: "Septembre 2023",
       end: "Novembre 2025",
       description:
@@ -89,7 +89,7 @@ export const RESUME_DATA = {
       link: "https://www.orange.fr",
       title: "Analyste développeur ",
       badges: ['Prestation via ESN'],
-      logo: ClevertechLogo,
+      logo: Orange,
       start: "2022",
       end: "2023",
       description:
