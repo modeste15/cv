@@ -172,6 +172,31 @@ export const RESUME_DATA = {
       },
     }, 
     {
+      title: "Microsoft Certified: Azure Fundamentals",
+      techStack: [
+
+      ],
+      description: "",
+      logo: ConsultlyLogo,
+      link: {
+        label: "",
+        href: "https://www.credly.com/badges/f318ae52-e61d-46c0-942a-183b10a0881c"
+      },
+    }, 
+    {
+      title: "Microsoft Certified: Power Platform Fundamentals",
+      techStack: [
+
+      ],
+      description: "",
+      logo: ConsultlyLogo,
+      link: {
+        label: "",
+        href: "https://www.credly.com/badges/95905c97-02aa-485a-917a-3f726906e93b/linked_in_profile"
+      },
+    }, 
+
+    {
       title: "Streaming with Kafka",
       techStack: [
         "Kafka ",
