@@ -31,7 +31,7 @@ export const RESUME_DATA = {
   location: "France, & 🌏 ",
   locationLink: "https://maps.app.goo.gl/gjmCCWuzWxo4TF8J6",
   about:
-    "Ingénierie Logicielle & Données | Gestion de Projets IT",
+    "Ingénierie Logicielle ",
   summary:
     "Passionné par le développement, je possède de solides compétences en développement web, incluant l’intégration et l’automatisation d’API, le DevOps, les solutions cloud et l’analyse de données. J’ai débuté par le développement de plusieurs side projects web et mobile, avant d’évoluer vers un poste d’analyste développeur sur une solution hospitalière (Clinicaa). J’ai ensuite travaillé chez Orange sur un logiciel métier de gestion de projet, ce qui m’a permis de consolider plus de trois ans d’expérience en développement. J’ai poursuivi mon parcours par un master en informatique en alternance en tant que chargé de développement informatique chez Malakoff Humanis, où j’ai contribué à l’analyse des besoins métiers et au développement de deux applications web de pilotage commercial. J’apprécie concevoir des solutions utiles et orientées métier, avec une approche rigoureuse et un excellent sens du relationnel.",
   avatarUrl: "https://avatars.githubusercontent.com/u/49912886?s=400&u=b3e9e8682bcceb42ccc332b97cca075fb8036947&v=4",
