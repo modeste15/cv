@@ -94,10 +94,13 @@ export const RESUME_DATA = {
       start: "Septembre 2023",
       end: "Novembre 2025",
       actions : [
-        "Développement et maintenance de deux applications web de pilotage commercial utilisant Laravel et React, intégrant des API tierces pour automatiser la collecte et la visualisation des données.",
+        "Développement et maintenance de deux applications web de pilotage commercial (+1000 acteurs) PHP/JS/SQL",
+        "Reporting Commercial ",
+        "Gestion de projets Cycle V",
+        "Mise en place authentification unique SSO",
+        "Migration BlueGreen PHP5 vers PHP8 avec résolution de la dette technique",
+        "Administration serveur LINUX",
         "Collaboration avec les équipes métiers pour analyser les besoins, concevoir des solutions techniques adaptées et assurer la qualité du code via des revues et des tests automatisés.",
-        "Mise en place de pipelines CI/CD avec GitLab pour automatiser les déploiements, améliorant ainsi l'efficacité du processus de livraison logicielle.",
-        "Utilisation de Power BI pour créer des tableaux de bord interactifs, facilitant la prise de décision basée sur les données pour les équipes commerciales."
       ],
       description:"",
 
@@ -111,10 +114,12 @@ export const RESUME_DATA = {
       start: "Juillet 2022",
       end: "Juillet 2023",
       actions : [
-        "Développement et maintenance de deux applications web de pilotage commercial utilisant Laravel et React, intégrant des API tierces pour automatiser la collecte et la visualisation des données.",
-        "Collaboration avec les équipes métiers pour analyser les besoins, concevoir des solutions techniques adaptées et assurer la qualité du code via des revues et des tests automatisés.",
-        "Mise en place de pipelines CI/CD avec GitLab pour automatiser les déploiements, améliorant ainsi l'efficacité du processus de livraison logicielle.",
-        "Utilisation de Power BI pour créer des tableaux de bord interactifs, facilitant la prise de décision basée sur les données pour les équipes commerciales."
+        "Developpement PHP/Laravel d'un logiciel métier de gestion de projet internes.",
+        "Developpement PHP/Synfony d'une application metier de gestion d'incidents",
+        "Mise en place d'automatisations via des API tierces (INSSE, RPA, DIGISIGN)",
+        "Mise en place de pipelines CI/CD avec GitLab/SonarQube",
+        "Test Unitaire et d'intégration",
+        "Méthode de projet Agile/Scrum",
       ],
       description: "",
     },
@@ -127,10 +132,7 @@ export const RESUME_DATA = {
       start: "Mai 2022",
       end: "Juin 2022",
       actions : [
-        "Développement et maintenance de deux applications web de pilotage commercial utilisant Laravel et React, intégrant des API tierces pour automatiser la collecte et la visualisation des données.",
-        "Collaboration avec les équipes métiers pour analyser les besoins, concevoir des solutions techniques adaptées et assurer la qualité du code via des revues et des tests automatisés.",
-        "Mise en place de pipelines CI/CD avec GitLab pour automatiser les déploiements, améliorant ainsi l'efficacité du processus de livraison logicielle.",
-        "Utilisation de Power BI pour créer des tableaux de bord interactifs, facilitant la prise de décision basée sur les données pour les équipes commerciales."
+        "Développement et maintenance d'une application Flask de Gestion de Maintenance Assisté par Ordinateur (GMAO) pour le secteur IOT.",
       ],
       description: "",
     },
@@ -143,10 +145,10 @@ export const RESUME_DATA = {
       start: "Juin 2020",
       end: "Juillet 2021",
       actions : [
-        "Développement et maintenance de deux applications web de pilotage commercial utilisant Laravel et React, intégrant des API tierces pour automatiser la collecte et la visualisation des données.",
-        "Collaboration avec les équipes métiers pour analyser les besoins, concevoir des solutions techniques adaptées et assurer la qualité du code via des revues et des tests automatisés.",
-        "Mise en place de pipelines CI/CD avec GitLab pour automatiser les déploiements, améliorant ainsi l'efficacité du processus de livraison logicielle.",
-        "Utilisation de Power BI pour créer des tableaux de bord interactifs, facilitant la prise de décision basée sur les données pour les équipes commerciales."
+        "développement Backend PHP/Laravel d'une solution ERP hospitalière .",
+        "Développement Frontend Vue.js d'interfaces utilisateur",
+        "Déploiement Cloud HDS",
+        "Installation de la solution chez les clients",
       ],
       description: "",
 
@@ -154,16 +156,30 @@ export const RESUME_DATA = {
     {
       company: "SportFM",
       link: "https://www.sportfm.com",
-      title: "Developpeur web ",
+      title: "Developpeur web",
       badges: ['freelance'],
       logo: Orange,
       start: "2020",
       end: "2021",
       actions : [
-        "Développement et maintenance de deux applications web de pilotage commercial utilisant Laravel et React, intégrant des API tierces pour automatiser la collecte et la visualisation des données.",
-        "Collaboration avec les équipes métiers pour analyser les besoins, concevoir des solutions techniques adaptées et assurer la qualité du code via des revues et des tests automatisés.",
-        "Mise en place de pipelines CI/CD avec GitLab pour automatiser les déploiements, améliorant ainsi l'efficacité du processus de livraison logicielle.",
-        "Utilisation de Power BI pour créer des tableaux de bord interactifs, facilitant la prise de décision basée sur les données pour les équipes commerciales."
+        "Freelance développement d'un site avec diffusion en direct de la radio",
+
+      ],
+      description: "",
+    },
+        {
+      company: "MiabeSTAR",
+      link: "",
+      title: "Developpeur web & Mobile",
+      badges: ['freelance'],
+      logo: Orange,
+      start: "2019",
+      end: "2020",
+      actions : [
+        "API backent Laravel pour une plateforme de remuneration des createurs de contenus",
+        "Application mobile React Native ",
+        "Integration d'API de paiement "
+
       ],
       description: "",
     },
@@ -172,7 +188,24 @@ export const RESUME_DATA = {
     skills: [
         "PHP",
         "Laravel",
-        "React",
+        "JavaScript",
+        "TypeScript",
+        "Vue.js",
+        "HTML",
+        "CSS",
+        "TailwindCSS",
+        "Python",
+        "FastAPI",
+        "Flask",
+        "Azure",
+        "Docker",
+        "Kubernetes",
+        "CI/CD",
+        "DevOps",
+        "RESTful APIs",
+        "MySQL",
+        "PostgreSQL",
+        "NoSQL",
         "PowerBi",
         "SQL",
         "GitLab CI/CD",
