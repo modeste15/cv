@@ -58,18 +58,30 @@ export const RESUME_DATA = {
       degree: "Master Data Engineering",
       start: "2023",
       end: "2025",
+      actions : [
+        "Modules clés : Data Engineering, Cloud Computing (Azure), Big Data, Machine Learning, Data Visualization, DevOps pour Data Science, Gestion de Projets IT.",
+        "Projets réalisés : Développement d'une API de gestion de bibliothèque avec FastAPI et Oracle, Visualisation de données scientifiques avec Tableau, Analyse de sentiments en temps réel avec Kafka et PySpark."
+      ],
     },
     {
       school: "Université du Havre Normandie",
       degree: "Licence Informatique ",
       start: "2021",
       end: "2022",
+      actions : [
+        "Modules clés : Data Engineering, Cloud Computing (Azure), Big Data, Machine Learning, Data Visualization, DevOps pour Data Science, Gestion de Projets IT.",
+        "Projets réalisés : Développement d'une API de gestion de bibliothèque avec FastAPI et Oracle, Visualisation de données scientifiques avec Tableau, Analyse de sentiments en temps réel avec Kafka et PySpark."
+      ],
     },
     {
       school: "Ecole Polytechnique Lome",
       degree: "Parcours Licence Professionnelle Genie Logiciel ",
       start: "2017",
       end: "2020",
+      actions : [
+        "Modules clés : Data Engineering, Cloud Computing (Azure), Big Data, Machine Learning, Data Visualization, DevOps pour Data Science, Gestion de Projets IT.",
+        "Projets réalisés : Développement d'une API de gestion de bibliothèque avec FastAPI et Oracle, Visualisation de données scientifiques avec Tableau, Analyse de sentiments en temps réel avec Kafka et PySpark."
+      ],
     }
   ],
   work: [
@@ -87,8 +99,17 @@ export const RESUME_DATA = {
         "Mise en place de pipelines CI/CD avec GitLab pour automatiser les déploiements, améliorant ainsi l'efficacité du processus de livraison logicielle.",
         "Utilisation de Power BI pour créer des tableaux de bord interactifs, facilitant la prise de décision basée sur les données pour les équipes commerciales."
       ],
-      description:
-        "CRM - PowerBi - ETL - PHP - SQL - SqlServer - ADFS - BigData - Reporting - ChartJS - Bitbucket - ITIL",
+      description:"",
+      skills: [
+        "PHP",
+        "Laravel",
+        "React",
+        "PowerBi",
+        "SQL",
+        "GitLab CI/CD",
+        "API REST",
+        "Agile / Scrum"
+      ],
     },
     {
       company: "Orange France",
@@ -106,6 +127,16 @@ export const RESUME_DATA = {
       ],
       description:
       "Gitlab CI/CD - Symfony - Laravel - SonarQube - API REST - RPA - Automatisation de processus - Signature électronique - Intégration/Externalisation d'API - Postman - Swagger - SQL - SCRUM ",
+      skills: [
+        "PHP",
+        "Laravel",
+        "React",
+        "PowerBi",
+        "SQL",
+        "GitLab CI/CD",
+        "API REST",
+        "Agile / Scrum"
+      ],
     },
     {
       company: "Engenys",
@@ -123,6 +154,16 @@ export const RESUME_DATA = {
       ],
       description:
       "Maintenance évolutive d’une application GMAO (Gestion de Maintenance Assistée par Ordinateur) web basée sur Python, utilisant le micro-framework Flask, ainsi que les technologies Jinja et Tailwind CSS, et l’intégration de Docker.",
+      skills: [
+        "PHP",
+        "Laravel",
+        "React",
+        "PowerBi",
+        "SQL",
+        "GitLab CI/CD",
+        "API REST",
+        "Agile / Scrum"
+      ],
     },
     {
       company: "Clinicaa",
@@ -139,30 +180,20 @@ export const RESUME_DATA = {
         "Utilisation de Power BI pour créer des tableaux de bord interactifs, facilitant la prise de décision basée sur les données pour les équipes commerciales."
       ],
       description: "Poste de développeur au sein d’une équipe dédiée à la création d’une solution hospitalière complète, développée entièrement à partir de zéro. Mon rôle consistait à concevoir et coder des fonctionnalités cruciales, contribuant à la construction d’un système robuste, adapté aux besoins spécifiques du secteur de la santé. Mon engagement dans ce projet a renforcé mes compétences en développement et approfondi ma compréhension des exigences complexes des solutions médicales.",
+      skills: [
+        "PHP",
+        "Laravel",
+        "React",
+        "PowerBi",
+        "SQL",
+        "GitLab CI/CD",
+        "API REST",
+        "Agile / Scrum"
+      ],
     },
 
   ],
-  skills: [
-    "JavaScript",
-    "PHP",
-    "Laravel",
-    "API",
-    "PowerBi",
-    "SQL",
-    "PostgreSQL",
-    "ETL",
-    "Python",
-    "FastAPI",
-    "Data Analysis",
-    "Tableau",
-    "Git",
-    "Docker",
-    "Agile Methodologies",
-    "ChartJS",
-    "ITIL",
-    "Agile / Scrum"
 
-  ],
   projects: [
     {
       title: "Formation Master",

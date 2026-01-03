@@ -102,7 +102,7 @@ export default function Page() {
           </p>
         </Section>
         <Section>
-          <h2 className="text-xl font-bold">Expérience Professionnelle</h2>
+          <h2 className="text-xl font-bold">Expériences</h2>
           {RESUME_DATA.work.map((work) => {
             return (
               <Card key={work.company}>
@@ -136,15 +136,20 @@ export default function Page() {
                 </CardHeader>
                 <CardContent className="mt-2 text-xs">
                   {work.description}
-                    {work.actions && work.actions.length > 0 && (
-                    <ul className="mt-2 list-disc pl-5">
-                      {work.actions.map((action, index) => (
-                      <li key={index} className="text-muted-foreground">
-                        {action}
-                      </li>
-                      ))}
-                    </ul>
-                    )}
+                  {work.actions && work.actions.length > 0 && (
+                  <ul className="mt-2 list-disc pl-5">
+                    {work.actions.map((action, index) => (
+                    <li key={index} className="text-muted-foreground">
+                      {action}
+                    </li>
+                    ))}
+                  </ul>
+                  )}
+                  <div className="flex flex-wrap gap-1">
+                  Technologies : {work.skills.map((skill) => {
+                    return <Badge key={skill}>{skill}</Badge>;
+                  })}
+                </div>
                 </CardContent>
               </Card>
             );
@@ -165,7 +170,17 @@ export default function Page() {
                     </div>
                   </div>
                 </CardHeader>
-                <CardContent className="mt-2">{education.degree}</CardContent>
+                <CardContent className="mt-2">{education.degree}
+                  {education.actions && education.actions.length > 0 && (
+                  <ul className="mt-2 list-disc pl-5">
+                    {education.actions.map((action, index) => (
+                    <li key={index} className="text-muted-foreground">
+                      {action}
+                    </li>
+                    ))}
+                  </ul>
+                  )}
+                </CardContent>
               </Card>
             );
           })}
