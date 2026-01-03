@@ -23,7 +23,7 @@ import {
 
 
 
-import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
+import { GitHubIcon, LinkedInIcon, XIcon, BlogIcon } from "@/components/icons";
 
 export const RESUME_DATA = {
   name: "Modeste KOUASSI",
@@ -49,6 +49,11 @@ export const RESUME_DATA = {
         name: "LinkedIn",
         url: "https://www.linkedin.com/in/modestekouassi/",
         icon: LinkedInIcon,
+      },
+      {
+        name: "BLOG",
+        url: "https://modeste15.github.io/",
+        icon: BlogIcon,
       }
     ],
   },
