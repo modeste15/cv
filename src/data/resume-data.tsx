@@ -28,7 +28,7 @@ import { GitHubIcon, LinkedInIcon, XIcon, BlogIcon } from "@/components/icons";
 export const RESUME_DATA = {
   name: "Modeste KOUASSI",
   initials: "",
-  location: "France, & 🌏 | Pour l'instant disponible",
+  location: "France, & 🌏 ",
   locationLink: "https://maps.app.goo.gl/gjmCCWuzWxo4TF8J6",
   about:
     "Ingénierie Logicielle & Données | Gestion de Projets IT",
