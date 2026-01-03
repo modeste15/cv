@@ -100,16 +100,7 @@ export const RESUME_DATA = {
         "Utilisation de Power BI pour créer des tableaux de bord interactifs, facilitant la prise de décision basée sur les données pour les équipes commerciales."
       ],
       description:"",
-      skills: [
-        "PHP",
-        "Laravel",
-        "React",
-        "PowerBi",
-        "SQL",
-        "GitLab CI/CD",
-        "API REST",
-        "Agile / Scrum"
-      ],
+
     },
     {
       company: "Orange France",
@@ -125,18 +116,7 @@ export const RESUME_DATA = {
         "Mise en place de pipelines CI/CD avec GitLab pour automatiser les déploiements, améliorant ainsi l'efficacité du processus de livraison logicielle.",
         "Utilisation de Power BI pour créer des tableaux de bord interactifs, facilitant la prise de décision basée sur les données pour les équipes commerciales."
       ],
-      description:
-      "Gitlab CI/CD - Symfony - Laravel - SonarQube - API REST - RPA - Automatisation de processus - Signature électronique - Intégration/Externalisation d'API - Postman - Swagger - SQL - SCRUM ",
-      skills: [
-        "PHP",
-        "Laravel",
-        "React",
-        "PowerBi",
-        "SQL",
-        "GitLab CI/CD",
-        "API REST",
-        "Agile / Scrum"
-      ],
+      description: "",
     },
     {
       company: "Engenys",
@@ -152,18 +132,7 @@ export const RESUME_DATA = {
         "Mise en place de pipelines CI/CD avec GitLab pour automatiser les déploiements, améliorant ainsi l'efficacité du processus de livraison logicielle.",
         "Utilisation de Power BI pour créer des tableaux de bord interactifs, facilitant la prise de décision basée sur les données pour les équipes commerciales."
       ],
-      description:
-      "Maintenance évolutive d’une application GMAO (Gestion de Maintenance Assistée par Ordinateur) web basée sur Python, utilisant le micro-framework Flask, ainsi que les technologies Jinja et Tailwind CSS, et l’intégration de Docker.",
-      skills: [
-        "PHP",
-        "Laravel",
-        "React",
-        "PowerBi",
-        "SQL",
-        "GitLab CI/CD",
-        "API REST",
-        "Agile / Scrum"
-      ],
+      description: "",
     },
     {
       company: "Clinicaa",
@@ -179,17 +148,8 @@ export const RESUME_DATA = {
         "Mise en place de pipelines CI/CD avec GitLab pour automatiser les déploiements, améliorant ainsi l'efficacité du processus de livraison logicielle.",
         "Utilisation de Power BI pour créer des tableaux de bord interactifs, facilitant la prise de décision basée sur les données pour les équipes commerciales."
       ],
-      description: "Poste de développeur au sein d’une équipe dédiée à la création d’une solution hospitalière complète, développée entièrement à partir de zéro. Mon rôle consistait à concevoir et coder des fonctionnalités cruciales, contribuant à la construction d’un système robuste, adapté aux besoins spécifiques du secteur de la santé. Mon engagement dans ce projet a renforcé mes compétences en développement et approfondi ma compréhension des exigences complexes des solutions médicales.",
-      skills: [
-        "PHP",
-        "Laravel",
-        "React",
-        "PowerBi",
-        "SQL",
-        "GitLab CI/CD",
-        "API REST",
-        "Agile / Scrum"
-      ],
+      description: "",
+
     },
     {
       company: "SportFM",
@@ -205,9 +165,11 @@ export const RESUME_DATA = {
         "Mise en place de pipelines CI/CD avec GitLab pour automatiser les déploiements, améliorant ainsi l'efficacité du processus de livraison logicielle.",
         "Utilisation de Power BI pour créer des tableaux de bord interactifs, facilitant la prise de décision basée sur les données pour les équipes commerciales."
       ],
-      description:
-      "Gitlab CI/CD - Symfony - Laravel - SonarQube - API REST - RPA - Automatisation de processus - Signature électronique - Intégration/Externalisation d'API - Postman - Swagger - SQL - SCRUM ",
-      skills: [
+      description: "",
+    },
+
+  ],
+    skills: [
         "PHP",
         "Laravel",
         "React",
@@ -217,10 +179,6 @@ export const RESUME_DATA = {
         "API REST",
         "Agile / Scrum"
       ],
-    },
-
-  ],
-
   projects: [
     {
       title: "Formation Master",
