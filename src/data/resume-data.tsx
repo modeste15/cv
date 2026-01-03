@@ -55,7 +55,7 @@ export const RESUME_DATA = {
   education: [
     {
       school: "SUPINFO",
-      degree: "Master Data Engineering",
+      degree: "Master Management des Systèmes d'Informations",
       start: "2023",
       end: "2025",
       actions : [
@@ -157,8 +157,8 @@ export const RESUME_DATA = {
       title: "Developpeur web ",
       badges: ['freelance'],
       logo: Orange,
-      start: "",
-      end: "2020",
+      start: "2020",
+      end: "2021",
       actions : [
         "Développement et maintenance de deux applications web de pilotage commercial utilisant Laravel et React, intégrant des API tierces pour automatiser la collecte et la visualisation des données.",
         "Collaboration avec les équipes métiers pour analyser les besoins, concevoir des solutions techniques adaptées et assurer la qualité du code via des revues et des tests automatisés.",
