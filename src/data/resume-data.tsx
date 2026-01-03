@@ -191,6 +191,33 @@ export const RESUME_DATA = {
         "Agile / Scrum"
       ],
     },
+    {
+      company: "SportFM",
+      link: "https://www.sportfm.com",
+      title: "Developpeur web ",
+      badges: ['freelance'],
+      logo: Orange,
+      start: "",
+      end: "2020",
+      actions : [
+        "Développement et maintenance de deux applications web de pilotage commercial utilisant Laravel et React, intégrant des API tierces pour automatiser la collecte et la visualisation des données.",
+        "Collaboration avec les équipes métiers pour analyser les besoins, concevoir des solutions techniques adaptées et assurer la qualité du code via des revues et des tests automatisés.",
+        "Mise en place de pipelines CI/CD avec GitLab pour automatiser les déploiements, améliorant ainsi l'efficacité du processus de livraison logicielle.",
+        "Utilisation de Power BI pour créer des tableaux de bord interactifs, facilitant la prise de décision basée sur les données pour les équipes commerciales."
+      ],
+      description:
+      "Gitlab CI/CD - Symfony - Laravel - SonarQube - API REST - RPA - Automatisation de processus - Signature électronique - Intégration/Externalisation d'API - Postman - Swagger - SQL - SCRUM ",
+      skills: [
+        "PHP",
+        "Laravel",
+        "React",
+        "PowerBi",
+        "SQL",
+        "GitLab CI/CD",
+        "API REST",
+        "Agile / Scrum"
+      ],
+    },
 
   ],
 
