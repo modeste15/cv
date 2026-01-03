@@ -33,7 +33,7 @@ export const RESUME_DATA = {
   about:
     "Ingénierie Logicielle & Données | Gestion de Projets IT",
   summary:
-    "Passionné par le développement logiciel et la valorisation des données, j’ai exercé en tant que Chargé de développement(PMO) chez Malakoff Humanis, où j’analysais les besoins des équipes commerciales et exploitais des données multi-sources issues de CRM et de logiciels RH, mises en œuvre au travers de chaînes ETL, afin de les traduire en solutions concrètes au sein d’un logiciel de suivi d’activité et reporting BI. En parallèle lors de ma formation, j’ai mené plusieurs projets en ingénierie data et analyse de données. Aussi Fort d’une expérience chez Orange France, j’ai conduit des projets d’intégration d’API et automatisé des processus clés, notamment autour de l'automatisation RPA et de la signature électronique. Habitué aux bonnes pratiques de développement et aux méthodologies agiles, je dispose d’une expertise couvrant la gestion de bases de données SQL, les ETLs, l’intégration de solutions web complexes et la gestion de projets informatiques, de l’expression du besoin jusqu’à la livraison.",
+    "Passionné par le développement, je possède de solides compétences en développement web, incluant l’intégration et l’automatisation d’API, le DevOps, les solutions cloud et l’analyse de données. J’ai débuté par le développement de plusieurs side projects web et mobile, avant d’évoluer vers un poste d’analyste développeur sur une solution hospitalière (Clinicaa). J’ai ensuite travaillé chez Orange sur un logiciel métier de gestion de projet, ce qui m’a permis de consolider plus de trois ans d’expérience en développement. J’ai poursuivi mon parcours par un master en informatique en alternance en tant que chargé de développement informatique chez Malakoff Humanis, où j’ai contribué à l’analyse des besoins métiers et au développement de deux applications web de pilotage commercial. J’apprécie concevoir des solutions utiles et orientées métier, avec une approche rigoureuse et un excellent sens du relationnel.",
   avatarUrl: "https://avatars.githubusercontent.com/u/49912886?s=400&u=b3e9e8682bcceb42ccc332b97cca075fb8036947&v=4",
   personalWebsiteUrl: "",
   contact: {
@@ -81,6 +81,12 @@ export const RESUME_DATA = {
       logo: Mh,
       start: "Septembre 2023",
       end: "Novembre 2025",
+      actions : [
+        "Développement et maintenance de deux applications web de pilotage commercial utilisant Laravel et React, intégrant des API tierces pour automatiser la collecte et la visualisation des données.",
+        "Collaboration avec les équipes métiers pour analyser les besoins, concevoir des solutions techniques adaptées et assurer la qualité du code via des revues et des tests automatisés.",
+        "Mise en place de pipelines CI/CD avec GitLab pour automatiser les déploiements, améliorant ainsi l'efficacité du processus de livraison logicielle.",
+        "Utilisation de Power BI pour créer des tableaux de bord interactifs, facilitant la prise de décision basée sur les données pour les équipes commerciales."
+      ],
       description:
         "CRM - PowerBi - ETL - PHP - SQL - SqlServer - ADFS - BigData - Reporting - ChartJS - Bitbucket - ITIL",
     },
