@@ -98,6 +98,12 @@ export const RESUME_DATA = {
       logo: Orange,
       start: "Juillet 2022",
       end: "Juillet 2023",
+      actions : [
+        "Développement et maintenance de deux applications web de pilotage commercial utilisant Laravel et React, intégrant des API tierces pour automatiser la collecte et la visualisation des données.",
+        "Collaboration avec les équipes métiers pour analyser les besoins, concevoir des solutions techniques adaptées et assurer la qualité du code via des revues et des tests automatisés.",
+        "Mise en place de pipelines CI/CD avec GitLab pour automatiser les déploiements, améliorant ainsi l'efficacité du processus de livraison logicielle.",
+        "Utilisation de Power BI pour créer des tableaux de bord interactifs, facilitant la prise de décision basée sur les données pour les équipes commerciales."
+      ],
       description:
       "Gitlab CI/CD - Symfony - Laravel - SonarQube - API REST - RPA - Automatisation de processus - Signature électronique - Intégration/Externalisation d'API - Postman - Swagger - SQL - SCRUM ",
     },
@@ -109,6 +115,12 @@ export const RESUME_DATA = {
       logo: JojoMobileLogo,
       start: "Mai 2022",
       end: "Juin 2022",
+      actions : [
+        "Développement et maintenance de deux applications web de pilotage commercial utilisant Laravel et React, intégrant des API tierces pour automatiser la collecte et la visualisation des données.",
+        "Collaboration avec les équipes métiers pour analyser les besoins, concevoir des solutions techniques adaptées et assurer la qualité du code via des revues et des tests automatisés.",
+        "Mise en place de pipelines CI/CD avec GitLab pour automatiser les déploiements, améliorant ainsi l'efficacité du processus de livraison logicielle.",
+        "Utilisation de Power BI pour créer des tableaux de bord interactifs, facilitant la prise de décision basée sur les données pour les équipes commerciales."
+      ],
       description:
       "Maintenance évolutive d’une application GMAO (Gestion de Maintenance Assistée par Ordinateur) web basée sur Python, utilisant le micro-framework Flask, ainsi que les technologies Jinja et Tailwind CSS, et l’intégration de Docker.",
     },
@@ -120,6 +132,12 @@ export const RESUME_DATA = {
       logo: NSNLogo,
       start: "Juin 2020",
       end: "Juillet 2021",
+      actions : [
+        "Développement et maintenance de deux applications web de pilotage commercial utilisant Laravel et React, intégrant des API tierces pour automatiser la collecte et la visualisation des données.",
+        "Collaboration avec les équipes métiers pour analyser les besoins, concevoir des solutions techniques adaptées et assurer la qualité du code via des revues et des tests automatisés.",
+        "Mise en place de pipelines CI/CD avec GitLab pour automatiser les déploiements, améliorant ainsi l'efficacité du processus de livraison logicielle.",
+        "Utilisation de Power BI pour créer des tableaux de bord interactifs, facilitant la prise de décision basée sur les données pour les équipes commerciales."
+      ],
       description: "Poste de développeur au sein d’une équipe dédiée à la création d’une solution hospitalière complète, développée entièrement à partir de zéro. Mon rôle consistait à concevoir et coder des fonctionnalités cruciales, contribuant à la construction d’un système robuste, adapté aux besoins spécifiques du secteur de la santé. Mon engagement dans ce projet a renforcé mes compétences en développement et approfondi ma compréhension des exigences complexes des solutions médicales.",
     },
 
