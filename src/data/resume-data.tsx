@@ -59,7 +59,7 @@ export const RESUME_DATA = {
       start: "2023",
       end: "2025",
       actions : [
-        "Modules clés : Data Engineering, Cloud Computing (Azure), Big Data, Machine Learning, Data Visualization, DevOps pour Data Science, Gestion de Projets IT.",
+        "Modules clés : Data Engineering, Cloud Computing (Azure), Big Data, Talend, Data Visualization, DevOps pour Data Science, Gestion de Projets IT (ITIL, Agile).",
         "Projets réalisés : Développement d'une API de gestion de bibliothèque avec FastAPI et Oracle, Visualisation de données scientifiques avec Tableau, Analyse de sentiments en temps réel avec Kafka et PySpark."
       ],
     },
@@ -69,8 +69,7 @@ export const RESUME_DATA = {
       start: "2021",
       end: "2022",
       actions : [
-        "Modules clés : Data Engineering, Cloud Computing (Azure), Big Data, Machine Learning, Data Visualization, DevOps pour Data Science, Gestion de Projets IT.",
-        "Projets réalisés : Développement d'une API de gestion de bibliothèque avec FastAPI et Oracle, Visualisation de données scientifiques avec Tableau, Analyse de sentiments en temps réel avec Kafka et PySpark."
+        "Modules clés : Developpement Logiciel, Algorithmique Avancée, Structures de Données, Bases de Données, Réseaux Informatiques, Systèmes d'Exploitation."
       ],
     },
     {
@@ -79,8 +78,7 @@ export const RESUME_DATA = {
       start: "2017",
       end: "2020",
       actions : [
-        "Modules clés : Data Engineering, Cloud Computing (Azure), Big Data, Machine Learning, Data Visualization, DevOps pour Data Science, Gestion de Projets IT.",
-        "Projets réalisés : Développement d'une API de gestion de bibliothèque avec FastAPI et Oracle, Visualisation de données scientifiques avec Tableau, Analyse de sentiments en temps réel avec Kafka et PySpark."
+        "Modules clés : Modélication UML, Analyse et Conception Orientée Objet, Développement Web (PHP, JavaScript), Bases de Données (MySQL), Gestion de Projets Informatiques.",
       ],
     }
   ],
