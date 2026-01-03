@@ -136,14 +136,16 @@ export default function Page() {
                 </CardHeader>
                 <CardContent className="mt-2 text-xs">
                   {work.description}
-                  <ul className="mt-2 list-disc pl-5 text-xs"></ul>
-                    {work.actions.map((action, index) => (
-                      <li key={index}>{action}</li>
-                    ))}
-                  </ul>
+                    {work.actions && work.actions.length > 0 && (
+                    <ul className="mt-2 list-disc pl-5">
+                      {work.actions.map((action, index) => (
+                      <li key={index} className="text-muted-foreground">
+                        {action}
+                      </li>
+                      ))}
+                    </ul>
+                    )}
                 </CardContent>
-                
-                
               </Card>
             );
           })}
